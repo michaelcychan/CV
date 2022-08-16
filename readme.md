@@ -2,7 +2,7 @@
 
 I am an aspiring junior full-stack developer, I look forward to work in the tech industry journey, applying my knowledge, skills and strengthes to become a better full-stack developer.
 
-I worked as an Immigration Officer in Hong Kong for the past decade, I used my communication skills to build up rapport with members of the public especially the asylum claimants who were foten in distress. I also 
+I worked as an Immigration Officer in Hong Kong for the past decade, I used my communication skills to build up rapport with members of the public especially the asylum claimants who were foten in distress. I was invovled in maintaining and developing the internal computer systems, while I knew very little about coding at that time, ...
 
 
 
@@ -119,4 +119,6 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+Apart from coding, I like 
+- playing the cello
+- watching manga / anime
