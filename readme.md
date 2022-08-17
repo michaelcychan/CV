@@ -1,10 +1,11 @@
 # Michael Chan - Junior Developer
 
-I am an aspiring junior full-stack developer, I look forward to work in the tech industry journey, applying my knowledge, skills and strengthes to become a better full-stack developer.
+## About me
+I am an aspiring junior full-stack developer, I look forward to work in the tech industry journey, applying my knowledge, skills and strengthes to become a better full-stack developer.  
 
-I worked as an Immigration Officer in Hong Kong for the past decade, I used my communication skills to build up rapport with members of the public especially the asylum claimants who were foten in distress. I was invovled in maintaining and developing the internal computer systems, while I knew very little about coding at that time, ...
+I worked as an Immigration Officer in Hong Kong for the past decade. For more than four years, I worked in a team which was responsible for maintaining and developing the internal computer systems. I used my self-learning skills to research the basic life-cycle of software development and also some SQL languages so that I can maintain an effective communcation with the internal and contractor programmers, that was also essential for me to assist the system users to write the User Stories when they wanted to have an upgrade of the application.  
 
-
+ When I was tasked with asylum claim assessments, I used my communication skills and empathy to build up rapport with members of the public especially the asylum claimants who were often in distress.  
 
 ## Group Projects from Makers Bootcamp
 
@@ -50,7 +51,6 @@ _Immigration Officer_
 
 - Conducting interviews with arrival passengers, examining their travel documents and other relevant documents or belongings, and making contacts with the local connections to investigate whether they satisfied the immigration requirements
 - Assisting genuine passengers especially in connection to their immigration issues
-- 
 
 **Company Name** (start-date to end-date)  
 _Your job title_
@@ -101,7 +101,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 #### Baptist University of Hong Kong - Hong Kong (Sep 2012 to Jun 2014)
 
 - Master in Arts and Culture
-- Other cool stuff
 
 #### University of Hong Kong - Hong Kong (Sep 2003 to Jul 2008)
 
@@ -120,5 +119,5 @@ That in some arguable way make you a better software developer or well-rounded p
 ## Hobbies
 
 Apart from coding, I like 
-- playing the cello
-- watching manga / anime
+- Playing the cello
+- Reading manga
