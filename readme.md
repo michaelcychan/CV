@@ -3,7 +3,7 @@
 ## About me
 I am an aspiring junior full-stack developer, I look forward to work in the tech industry journey, applying my knowledge, skills and strengthes to become a better full-stack developer.  
 
-I worked as an Immigration Officer in Hong Kong for the past decade. For more than four years, I worked in a team which was responsible for maintaining and developing the internal computer systems. I used my self-learning skills to research the basic life-cycle of software development and also some SQL languages so that I can maintain an effective communcation with the internal and contractor programmers, that was also essential for me to assist the system users to write the User Stories when they wanted to have an upgrade of the application.  
+I worked as an Immigration Officer in Hong Kong for the past decade. For more than four years, I worked as a non-technical member in a team which was responsible for maintaining and developing the internal computer systems. I had to be adaptable and self-learn the basic life-cycle of software development and also some SQL languages so that I can maintain an effective communcation with the internal and contractor programmers, that was also essential for me to assist the system users to write the User Stories when they wanted to have an upgrade of the application.  
 
  When I was tasked with asylum claim assessments, I used my communication skills and empathy to build up rapport with members of the public especially the asylum claimants who were often in distress.  
 
@@ -15,12 +15,12 @@ I worked as an Immigration Officer in Hong Kong for the past decade. For more th
 | **AceBook** | An experimental Facebook clone | 10 days | MongoDB, Express, Node.js, Handlebars, Jest, Cypress | https://github.com/michaelcychan/acebook-node-priceless |
 | **MakersBnB** | An AirBnB clone that allows users to list spaces that they have available and to hire spaces for the night | 5 days | Ruby, Postgresql | https://github.com/michaelcychan/MakersBnB |
 
-## Personal Projects
+## Personal Projects / Exercises
 
-| Name              | Description       | Tech/tools   | URL   |
-| ----------------- | ----------------- | ------------ | ----- |
-| **Village Doctor**   | A web application built for an imaginery village shaman doctor and villagers to make appointments and purchases | React, Node.js, Express, MongoDB, Jest | https://github.com/michaelcychan/village-doctor |
-| **Bank Tech Test**   | A tech test exercise simulating bank account transactions and statement printing | Node.js, Jest | https://github.com/michaelcychan/bank-tech-test |
+| Name              | Description       | Tech/tools   | URL   | Status  |
+| ----------------- | ----------------- | ------------ | ----- | ------- |
+| **Village Doctor**   | A web application built for an imaginery village shaman doctor and villagers to make appointments and purchases | React, Node.js, Express, MongoDB, Jest | https://github.com/michaelcychan/village-doctor | Ongoing |
+| **Bank Tech Test**   | A tech test exercise simulating bank account transactions and statement printing | Node.js, Jest | https://github.com/michaelcychan/bank-tech-test | Finished |
 
 
 ## Work Experience
@@ -29,6 +29,13 @@ I worked as an Immigration Officer in Hong Kong for the past decade. For more th
 _Coding Bootcamp_
 
 - Makers coding bootcamp
+- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
+- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
+- you might also mention aspects some other skills/knowledge listed below: 
+- OOP, TDD, MVC, DDD
+- Agile/XP
+- Ruby, Rails, JavaScript
+- RSpec, Jasmine
 
 **Hong Kong Government** (Dec 2010 - Dec 2021)  
 _Immigration Officer_
@@ -87,16 +94,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
-## Education
-
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+## Past Education
 
 #### Baptist University of Hong Kong - Hong Kong (Sep 2012 to Jun 2014)
 
@@ -114,7 +112,7 @@ That in some arguable way make you a better software developer or well-rounded p
 
 - English
 - Cantonese Chinese (Native proficiency)
-- Madarin Chinese
+- Madarin Chinese (daily conversation)
 
 ## Hobbies
 
