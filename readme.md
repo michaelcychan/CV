@@ -1,13 +1,13 @@
 # Michael Chan - Junior Developer
 
-## About me
+## About me 💁‍♂️
 I am an aspiring junior full-stack developer, I look forward to work in the tech industry journey, applying my knowledge, skills and strengthes to become a better full-stack developer.  
 
 I worked as an Immigration Officer in Hong Kong for the past decade. For more than four years, I worked as a non-technical member in a team which was responsible for maintaining and developing the internal computer systems. I had to be adaptable and self-learn the basic life-cycle of software development and also some SQL languages so that I can maintain an effective communcation with the internal and contractor programmers, that was also essential for me to assist the system users to write the User Stories when they wanted to have an upgrade of the application.  
 
  When I was tasked with asylum claim assessments, I used my communication skills and empathy to build up rapport with members of the public especially the asylum claimants who were often in distress.  
 
-## Group Projects from Makers Bootcamp
+## Group Projects from Makers Bootcamp 💻
 
 | Name              | Description       | Time frame | Tech/tools   | URL   |
 | ----------------- | ----------------- | ---------- | ------------ | ----- |
@@ -15,7 +15,7 @@ I worked as an Immigration Officer in Hong Kong for the past decade. For more th
 | **AceBook** | An experimental Facebook clone | 10 days | MongoDB, Express, Node.js, Handlebars, Jest, Cypress | https://github.com/michaelcychan/acebook-node-priceless |
 | **MakersBnB** | An AirBnB clone that allows users to list spaces that they have available and to hire spaces for the night | 5 days | Ruby, Postgresql | https://github.com/michaelcychan/MakersBnB |
 
-## Personal Projects / Exercises
+## Personal Projects / Exercises 🔋
 
 | Name              | Description       | Tech/tools   | URL   | Status  |
 | ----------------- | ----------------- | ------------ | ----- | ------- |
@@ -23,7 +23,7 @@ I worked as an Immigration Officer in Hong Kong for the past decade. For more th
 | **Bank Tech Test**   | A tech test exercise simulating bank account transactions and statement printing | Node.js, Jest | https://github.com/michaelcychan/bank-tech-test | Finished |
 
 
-## Work Experience
+## Work Experience 💡
 
 **Makers Academy** (May - Aug 2022)  
 _Coding Bootcamp_
@@ -34,8 +34,8 @@ _Coding Bootcamp_
 - you might also mention aspects some other skills/knowledge listed below: 
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Ruby (Sinatra, RSpec) 
+- JavaScript (Node.js, React, React Native, Jest)
 
 **Hong Kong Government** (Dec 2010 - Dec 2021)  
 _Immigration Officer_
@@ -64,7 +64,7 @@ _Your job title_
 
 - Any experience relevent to software development
 
-## Skills
+## Skills 
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 (Using a STAR example Paragraph) Consider the questions below.
@@ -108,13 +108,14 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 That in some arguable way make you a better software developer or well-rounded person
 
-#### Languages
+#### Languages 🈺
 
 - English
 - Cantonese Chinese (Native proficiency)
 - Madarin Chinese (daily conversation)
+- Japanese (I am starting to learn it!)
 
-## Hobbies
+## Hobbies 🎵
 
 Apart from coding, I like 
 - Playing the cello
