@@ -10,7 +10,7 @@ I am always fascinated with technologies, I love online shopping, I love travell
 ## <a name="tech_stack">Tech Stack</a>
 
 --------
-<img src="./images/javascript.png">&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/nodejs.png">&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/jest.png">&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/ruby.png">&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/rspec.png">&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/postgresql.png">&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/mongodb.png">&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/HTML5.png">&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/CSS3.png">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./images/javascript.png" height="70px">&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/nodejs.png" height="70px">&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/jest.png" height="70px">&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/ruby.png" height="70px">&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/rspec.png" height="70px">&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/postgresql.png" height="70px">&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/mongodb.png" height="70px">&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/HTML5.png" height="70px">&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/CSS3.png" height="70px">&nbsp;&nbsp;&nbsp;&nbsp;
 
 --------
 - Javascript (Node.js, Express, Jest, React, React Native)
