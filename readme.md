@@ -1,12 +1,24 @@
 # Michael Chan - Junior Developer
 
-## About me 💁‍♂️
+[About Me](#about_me) || [Tech stack](#tech_stack) || [Projects](#projects) || [Skills](#skills) || [Work Experience](#work_experience) || [Past Education](#past_education) || [Others](#others)
+
+## <a name="about_me">About me 💁‍♂️ </a>
 I am an aspiring junior full-stack developer, I look forward to working in the tech industry journey, applying my knowledge, skills and strengthes to become a better full-stack developer.  
 
 I am always fascinated with technologies, I love online shopping, I love travelling with GPS and Google Map, I love video calls or gaming with friends living in another continent. I believes technology has a great potential to change our lives. That is why after I moved from Hong Kong to the UK in January 2022, I decided to start my career in tech.  
 
+## <a name="tech_stack">Tech Stack</a>
 
-## Group Projects from Makers Bootcamp 💻
+- Javascript (Node.js, Express, Jest, React, React Native)
+- Ruby (Sinatra, RSpec, Capybara)
+- SQL (PostgreSQL, TablePlus)
+- MongoDB (MongoDB Atlas, Mongoose)
+- HTML, CSS (Boostrap)
+- Heroku
+- Git, GitHub
+
+## <a name="projects">Projects</a>
+### Group Projects from Makers Bootcamp 💻
 
 | Name              | Description       | Time frame | Tech/tools   | URL   |
 | ----------------- | ----------------- | ---------- | ------------ | ----- |
@@ -14,28 +26,37 @@ I am always fascinated with technologies, I love online shopping, I love travell
 | **AceBook** | An experimental Facebook clone | 10 days | MongoDB, Express, Node.js, Handlebars, Jest, Cypress | https://github.com/michaelcychan/acebook-node-priceless |
 | **MakersBnB** | An AirBnB clone that allows users to list spaces that they have available and to hire spaces for the night | 5 days | Ruby, Sinatra, RSpect, Postgresql | https://github.com/michaelcychan/MakersBnB |
 
-## Personal Projects / Exercises 🔋
+### Personal Projects / Exercises 🔋
 
 | Name              | Description       | Tech/tools   | URL   | Status  |
 | ----------------- | ----------------- | ------------ | ----- | ------- |
-| **Village Doctor**   | A web application built for an imaginery village shaman doctor and villagers to make appointments and purchases | React, Node.js, Express, MongoDB, Jest | https://github.com/michaelcychan/village-doctor | Ongoing |
+| **Village Doctor**   | A web application built for an imaginery village shaman doctor and villagers to make appointments and purchases | MERN (React, Node.js, Express, MongoDB), Jest | https://github.com/michaelcychan/village-doctor | Ongoing |
 | **Bank Tech Test**   | A tech test exercise simulating bank account transactions and statement printing | Node.js, Jest | https://github.com/michaelcychan/bank-tech-test | Finished |
 
+## <a name="skills">Skills 🏹</a>
 
-## Work Experience 💡
+### Self-reliant 
+I worked as an Immigration Officer in Hong Kong for the past decade. For more than four years, I worked as a non-technical member in a team which was responsible for maintaining and developing the internal computer systems. I had to be adaptable and self-learn the basic life-cycle of software development. Although I was not required to learn any technical aspects or programming language, I found it useful to learn the basic SQL so that I could ensure an effective communcation with the internal and contractor programmers, that was also essential for me to assist the system users to write the User Stories when they wanted to have an upgrade of the application.  
 
-**Makers Academy** (May - Aug 2022)  
-_Coding Bootcamp_
+When I was tasked with asylum claim assessments, I used my communication skills and empathy to build up rapport with members of the public especially the asylum claimants who were often in distress. I used my attention to details and analytic skills in my freqeunt communication with their legal representatives and my research of the submitted evidence and the relevant Country of Origin Information.  I also used my time management skills to arrange interviews, conduct researches on cases, and write  
 
-- Principles involved:
-  - Pair programming
-  - Test Driven Development 
-- I 
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby (Sinatra, RSpec) 
-- JavaScript (Node.js, React, React Native, Jest)
+
+#### This Skill
+
+- Experience
+- Achievements
+- Evidence (STAR)
+
+#### Another Skill
+
+Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
+
+- I achieved A during my work at B (job, or otherwise)
+- I contributed to the growth of X while doing Y (job, or otherwise)
+- I built this, made this, broke this, fixed this, etc.
+- A link to some on-line evidence (blogs, videos, articles, etc.)
+
+## <a name="work_experience">Work Experience 💡</a>
 
 **Hong Kong Government** (Dec 2010 - Dec 2021)  
 _Immigration Officer_
@@ -64,50 +85,40 @@ _Your job title_
 
 - Any experience relevent to software development
 
-## Skills 
 
-I worked as an Immigration Officer in Hong Kong for the past decade. For more than four years, I worked as a non-technical member in a team which was responsible for maintaining and developing the internal computer systems. I had to be adaptable and self-learn the basic life-cycle of software development and also some SQL languages so that I can maintain an effective communcation with the internal and contractor programmers, that was also essential for me to assist the system users to write the User Stories when they wanted to have an upgrade of the application.  
+## <a name="past_education">Past Education 📚</a>
 
-When I was tasked with asylum claim assessments, I used my communication skills and empathy to build up rapport with members of the public especially the asylum claimants who were often in distress. 
+**Makers Academy** (May - Aug 2022)  
+_Coding Bootcamp_
 
+- Principles involved:
+  - Pair programming
+  - Test Driven Development 
+- I 
+- you might also mention aspects some other skills/knowledge listed below: 
+- OOP, TDD, MVC, DDD
+- Agile/XP
+- Ruby (Sinatra, RSpec) 
+- JavaScript (Node.js, React, React Native, Jest)
 
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence (STAR)
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
-## Past Education
-
-#### Baptist University of Hong Kong - Hong Kong (Sep 2012 to Jun 2014)
+**Baptist University of Hong Kong - Hong Kong** (Sep 2012 to Jun 2014)
 
 - Master in Arts and Culture
 
-#### University of Hong Kong - Hong Kong (Sep 2003 to Jul 2008)
+**University of Hong Kong - Hong Kong** (Sep 2003 to Jul 2008)
 
 
 
-#### Any other qualifications
+## <a name="others">Others 🎵</a>
 
-That in some arguable way make you a better software developer or well-rounded person
-
-#### Languages 🈺
+### Languages
 
 - English
 - Cantonese Chinese (Native proficiency)
 - Madarin Chinese (daily conversation)
-- Japanese (I am starting to learn it!)
+- Japanese (I am learning it!)
 
-## Hobbies 🎵
+### Hobbies
 
 Apart from coding, I like 
 - Playing the cello
