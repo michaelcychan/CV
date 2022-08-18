@@ -1,11 +1,10 @@
 # Michael Chan - Junior Developer
 
 ## About me 💁‍♂️
-I am an aspiring junior full-stack developer, I look forward to work in the tech industry journey, applying my knowledge, skills and strengthes to become a better full-stack developer.  
+I am an aspiring junior full-stack developer, I look forward to working in the tech industry journey, applying my knowledge, skills and strengthes to become a better full-stack developer.  
 
-I worked as an Immigration Officer in Hong Kong for the past decade. For more than four years, I worked as a non-technical member in a team which was responsible for maintaining and developing the internal computer systems. I had to be adaptable and self-learn the basic life-cycle of software development and also some SQL languages so that I can maintain an effective communcation with the internal and contractor programmers, that was also essential for me to assist the system users to write the User Stories when they wanted to have an upgrade of the application.  
+I am always fascinated with technologies, I love online shopping, I love travelling with GPS and Google Map, I love video calls or gaming with friends living in another continent. I believes technology has a great potential to change our lives. That is why after I moved from Hong Kong to the UK in January 2022, I decided to start my career in tech.  
 
- When I was tasked with asylum claim assessments, I used my communication skills and empathy to build up rapport with members of the public especially the asylum claimants who were often in distress.  
 
 ## Group Projects from Makers Bootcamp 💻
 
@@ -13,7 +12,7 @@ I worked as an Immigration Officer in Hong Kong for the past decade. For more th
 | ----------------- | ----------------- | ---------- | ------------ | ----- |
 | **Loyal Bean**    | Two mobile applications (for independent coffee shop owners and customers respectively) to replace physical loyalty cards | 10 days | React Native, Node.js, Express, MongoDB Atlas, Heroku, Android Studio, XCode | https://github.com/michaelcychan/bean-app |
 | **AceBook** | An experimental Facebook clone | 10 days | MongoDB, Express, Node.js, Handlebars, Jest, Cypress | https://github.com/michaelcychan/acebook-node-priceless |
-| **MakersBnB** | An AirBnB clone that allows users to list spaces that they have available and to hire spaces for the night | 5 days | Ruby, Postgresql | https://github.com/michaelcychan/MakersBnB |
+| **MakersBnB** | An AirBnB clone that allows users to list spaces that they have available and to hire spaces for the night | 5 days | Ruby, Sinatra, RSpect, Postgresql | https://github.com/michaelcychan/MakersBnB |
 
 ## Personal Projects / Exercises 🔋
 
@@ -28,9 +27,10 @@ I worked as an Immigration Officer in Hong Kong for the past decade. For more th
 **Makers Academy** (May - Aug 2022)  
 _Coding Bootcamp_
 
-- Makers coding bootcamp
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
+- Principles involved:
+  - Pair programming
+  - Test Driven Development 
+- I 
 - you might also mention aspects some other skills/knowledge listed below: 
 - OOP, TDD, MVC, DDD
 - Agile/XP
@@ -66,17 +66,9 @@ _Your job title_
 
 ## Skills 
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
+I worked as an Immigration Officer in Hong Kong for the past decade. For more than four years, I worked as a non-technical member in a team which was responsible for maintaining and developing the internal computer systems. I had to be adaptable and self-learn the basic life-cycle of software development and also some SQL languages so that I can maintain an effective communcation with the internal and contractor programmers, that was also essential for me to assist the system users to write the User Stories when they wanted to have an upgrade of the application.  
 
--STAR
--What was the situation/task? (ST)
-
--How was the skill used?
-
--What did you do? (action)
-
--What was the result?
+When I was tasked with asylum claim assessments, I used my communication skills and empathy to build up rapport with members of the public especially the asylum claimants who were often in distress. 
 
 
 #### This Skill
@@ -119,4 +111,5 @@ That in some arguable way make you a better software developer or well-rounded p
 
 Apart from coding, I like 
 - Playing the cello
-- Reading manga
+- Reading manga (A recent one I really like is _The Heroic Legend of Arslan (アルスラーン戦記)_)
+- Travelling (who doesn't?)
