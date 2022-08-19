@@ -35,25 +35,30 @@ I am always fascinated with technologies, I love online shopping, I love travell
 | ----------------- | ----------------- | ------------ | ----- | ------- |
 | **Village Doctor**   | A web application built for an imaginery village shaman doctor and villagers to make appointments and purchases | MERN (React, Node.js, Express, MongoDB), Jest | https://github.com/michaelcychan/village-doctor | Ongoing |
 | **Bank Tech Test**   | A tech test exercise simulating bank account transactions and statement printing | Node.js, Jest | https://github.com/michaelcychan/bank-tech-test | Finished |
+| **Coding Process Review** | A coding process review by a professional reviewer | Javascript, Jest | https://youtu.be/GSrpFcar2oQ | Finished |
 
 ## <a name="skills">Skills 🏹</a>
 
 ### Self-initiative and self-directed learner
 I worked as an Immigration Officer in Hong Kong for the past decade. For more than four years, I worked as a non-technical member in a team which was responsible for maintaining and developing the internal computer systems. I had to be adaptable and self-learn the basic life-cycle of software development. Although I was not required to learn any technical aspects or programming language, I found it useful to learn the basic SQL so that I could ensure an effective communcation with the internal and contractor programmers, that was also essential for me to assist the system users to write the User Stories when they wanted to have an upgrade of the application.  
 
-My team used React Native, which was not taught officially, in the Engineering Project III  in the Makers bootcamp. I used my self-directed learning skill to learn and apply the newly learnt langauge to build two mobile applications and succesfully tested them on physical devices.
+My team used React Native, which was not included in the Makers official cirriculum, in the Engineering Project III in the Makers bootcamp. I used my self-directed learning skill, together with my team, to learn and apply the newly learnt langauge to build two mobile applications and succesfully tested them on physical devices.
 
 ### Communication, empathy, and construtive team player
 During the Makers bootcamp, I pair programmed almost every day. We had 3 group projects. I used my communication skills to complete our tasks by learning together and overcoming obstacles. When there was knowledge spectrum across the groups, I listened to what obstacles my partners had and tried to progress together as a team.  
 When I worked in the team with programmers and system users, I always had to use my communication skills to understand the need of the system users, assist them to write User Stories, and to explain to the programmers who did not have experience or full understanding of the users' daily operations. I also needed to explain system contrains to users and assist them to adjust the scope of possible system change.  
 
-When I was tasked with asylum claim assessments, I used my communication skills and empathy to build up rapport with members of the public especially the asylum claimants who were often in distress.
+When I was tasked with asylum claim assessments, I frequently interview the asylum claimants who were often in distress. I used my communication skills and empathy to build up rapport with them so that they can give their evidence to support their claims as best as they could.
 
 ### Attention to details and analytical skills
-I used my attention to details and analytic skills in my freqeunt communication with their legal representatives and my research of the submitted evidence and the relevant Country of Origin Information.  I also used my time management skills to arrange interviews, conduct researches on cases, and write  
+In the Makers bootcamp, I had coding sessions reviewed by indepedent external reviewers. In the latest review on 11 July 2022, I was commented "reasoned well and justified all the decisions [I] made regarding [my] algorithm. Even when stuck, [I] still justified and reasoned every attempt that [I] made at a solution to the non-compliant test." 
 
-### Time management
+In my job as Immigration Officer to assess asylum claims, I used my attention to details and analytic skills in my freqeunt communication with their legal representatives and my research of the submitted evidence and the relevant Country of Origin Information.  
 
+### Time management and prioritising
+In the Engineering Projects in Makers bootcamp, I always had to use time management skills to build web applications in relatively limited time with my team using the newly learnt skills. I and my teams always had to make decisions on which tasks should be completed first. We also had to prioristise different features, bug fixes, or learning new techs for the project.
+
+When I worked as an Immigration Officer to assess asylum claims, I usually had around 8 to 10 cases of different stages under my care. I used my time management skills to arrange interviews, conduct researches on cases, write decisions, and to handle appeals of asylum claimants withing the pledge timeframe. I had to use my time management skill to finish all tasks on time.
 
 ## <a name="work_experience">Work Experience 💡</a>
 
@@ -81,10 +86,12 @@ _Immigration Officer_
 
 ***Training Camp*** (Dec 2010 - Jul 2011)
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Dr Clement Tong Dental Clinic - Hong Kong** (Jan 2010 to Nov 2010)  
+**Health & Care Dental Clinic - Hong Kong** (Oct 2008 to Jul 2009)  
+_Associate Dentist_
 
-- Any experience relevent to software development
+- Providing oral examination and dental treatments to clients
+- Understanding clients' needs and discussing possible treatment plans to the clients
 
 
 ## <a name="past_education">Past Education 📚</a>
@@ -95,6 +102,7 @@ _Coding Bootcamp_
 - Principles involved:
   - Pair programming
   - Test Driven Development 
+  - Agile Process
 - you might also mention aspects some other skills/knowledge listed below: 
 - OOP, TDD, MVC, DDD
 - Agile/XP
@@ -121,6 +129,6 @@ _Coding Bootcamp_
 ### Hobbies
 
 Apart from coding, I like 
-- Playing the cello
+- Playing the cello (ABRSM Grade 7 with merit (Oct 2004))
 - Reading manga (A recent one I really like is _The Heroic Legend of Arslan (アルスラーン戦記)_)
-- Travelling (who doesn't?)
+- Lego
