@@ -7,7 +7,7 @@ I am an aspiring junior full-stack developer, I look forward to working in the t
 
 I am always fascinated with technologies, I love online shopping, I love travelling with GPS and Google Map, I love video calls or gaming with friends living in another continent. I believes technology has a great potential to improve our lives. That is why after I moved from Hong Kong to the UK in January 2022, I decided to explore tech as my new career.  I joined the highly-selective 16-week long bootcmap in [Makers](https://makers.tech/), which was highly intensive, but it confirmed my career change. I am ready for a challenging and rewarding career as a junior developer.
 
-## <a name="tech_stack">Tech Stack</a>  
+## <a name="tech_stack">Tech Stack 🔧</a>  
 
 <img src="./images/javascript.png" height="70px">&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/nodejs.png" height="70px">&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/jest.png" height="70px">&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/ruby.png" height="70px">&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/rspec.png" height="70px">&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/postgresql.png" height="70px">&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/mongodb.png" height="70px">&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/HTML5.png" height="70px">&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/CSS3.png" height="70px">&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -20,8 +20,8 @@ I am always fascinated with technologies, I love online shopping, I love travell
 - Heroku
 - Git, GitHub
 
-## <a name="projects">Projects</a>
-### Group Projects from Makers Bootcamp 💻
+## <a name="projects">Projects 💻</a>
+### Group Projects from Makers Bootcamp 🔋
 
 | Name              | Description       | Time frame | Tech/tools   | URL   |
 | ----------------- | ----------------- | ---------- | ------------ | ----- |
