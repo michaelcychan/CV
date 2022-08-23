@@ -2,6 +2,8 @@
 
 [About Me](#about_me) || [Tech stack](#tech_stack) || [Projects](#projects) || [Skills](#skills) || [Work Experience](#work_experience) || [Past Education](#past_education) || [Others](#others)
 
+[My CV](./resources/CV%20-%20Michael%20Chan%20(Cheuk%20Yu%20Chan).pdf)
+
 ## <a name="about_me">About me 💁‍♂️ </a>
 I am an aspiring junior full-stack developer. I look forward to the journey working in the tech industry, applying my knowledge, skills and strengths to become a better full-stack developer. 
 
