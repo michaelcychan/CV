@@ -27,7 +27,7 @@ I am always fascinated with technology, I love online shopping, I love travellin
 | ----------------- | ----------------- | ---------- | ------------ | ----- |
 | **Loyal Bean**    | Two mobile applications (for independent coffee shop owners and customers respectively) to replace physical loyalty cards | 10 days | React Native, Node.js, Express, MongoDB Atlas, Heroku, Android Studio, XCode | https://github.com/michaelcychan/bean-app <br> https://youtu.be/J0zqN5dgz1s |
 | **AceBook** | An experimental Facebook clone | 10 days | MongoDB, Express, Node.js, Handlebars, Jest, Cypress | https://github.com/michaelcychan/acebook-node-priceless |
-| **MakersBnB** | An AirBnB clone that allows users to list spaces that they have available and to hire spaces for the night | 5 days | Ruby, Sinatra, RSpect, Postgresql | https://github.com/michaelcychan/MakersBnB |
+| **MakersBnB** | An AirBnB clone that allows users to list spaces that they have available and to hire spaces for the night | 5 days | Ruby, Sinatra, RSpect, PostgreSQL | https://github.com/michaelcychan/MakersBnB |
 
 ### Personal Projects / Exercises 🔋
 
@@ -98,15 +98,11 @@ _Associate Dentist_
 **Makers Academy** (May - Aug 2022)  
 _Coding Bootcamp_
 
-- Principles involved:
-  - Pair programming
-  - Test Driven Development 
-  - Agile Process
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby (Sinatra, RSpec) 
-- JavaScript (Node.js, React, React Native, Jest)
+- Object-Oriented Programming, Test-Driven Development, Pair Programming
+- Ruby (Sinatra, RSpec)
+- JavaScript (Node.js, Express, Jest)
+- MongoDB, PostgreSQL
+- Agile (Scrum, Kanban)
 
 **Baptist University of Hong Kong - Hong Kong** (Sep 2012 to Jun 2014)
 
