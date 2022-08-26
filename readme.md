@@ -5,9 +5,15 @@
 [My CV](./resources/CV%20-%20Michael%20Chan%20(Cheuk%20Yu%20Chan).pdf)
 
 ## <a name="about_me">About me 💁‍♂️ </a>
-I am an aspiring junior full-stack developer. I look forward to the journey working in the tech industry, applying my knowledge, skills and strengths to become a better full-stack developer. 
+I have always been fascinated with technology, I love online shopping, I love travelling with GPS and Google Map, I love video calls or gaming with friends living in another continent. I believe technology has a great potential to improve our lives. That is why after I moved from Hong Kong to the UK in January 2022, I decided to explore tech as my new career.  Joining the highly-selective bootcamp in [Makers](https://makers.tech/) for 16 weeks confirmed my career change. 
 
-I am always fascinated with technology, I love online shopping, I love travelling with GPS and Google Map, I love video calls or gaming with friends living in another continent. I believe technology has a great potential to improve our lives. That is why after I moved from Hong Kong to the UK in January 2022, I decided to explore tech as my new career.  I joined the highly-selective 16-week long bootcamp in [Makers](https://makers.tech/); while the highly intensive bootcamp confirmed my career change. Now I am ready for a challenging and rewarding career as a junior developer.
+I am an aspiring junior full-stack developer. I look forward to the journey working in the tech industry, applying my knowledge, skills and strengths to become a better full-stack developer.
+
+### Languages 🗣️
+- English
+- Cantonese Chinese (Native proficiency)
+- Mandarin Chinese (daily conversation)
+- Japanese (I am learning it!)
 
 ## <a name="tech_stack">Tech Stack 🔧</a>  
 
@@ -15,12 +21,13 @@ I am always fascinated with technology, I love online shopping, I love travellin
 
 --------
 - Javascript (Node.js, Express, Jest, React, React Native)
-- Ruby (Sinatra, RSpec, Capybara)
-- SQL (PostgreSQL, TablePlus)
+- Ruby (Sinatra, Ruby on Rails, RSpec, Capybara)
+- SQL (PostgreSQL)
 - MongoDB (MongoDB Atlas, Mongoose)
 - HTML, CSS (Bootstrap)
 - Heroku
 - Git, GitHub
+- Other tools: TablePlus, Postman
 
 ## <a name="projects">Projects 💻</a>
 ### Group Projects from Makers Bootcamp 🔋
@@ -37,6 +44,7 @@ I am always fascinated with technology, I love online shopping, I love travellin
 | ----------------- | ----------------- | ------------ | ----- | ------- |
 | **Village Doctor**   | A web application built for an imaginary village shaman doctor and villagers to make appointments and purchases | MERN (React, Node.js, Express, MongoDB), Jest | https://github.com/michaelcychan/village-doctor | Ongoing |
 | **Bank Tech Test**   | A tech test exercise simulating bank account transactions and statement printing | Node.js, Jest | https://github.com/michaelcychan/bank-tech-test | Finished |
+| **Mock Blog API**   | A tech test exercise simulating a blog site | Ruby on Rails, CSS | https://github.com/michaelcychan/posts-api | Finished |
 | **Coding Process Review** | A coding process review by a professional reviewer | Javascript, Jest | [Scorecard](./resources/CodingProcessReviewComment.md) | Finished |
 
 ## <a name="skills">Skills 🏹</a>
@@ -114,18 +122,9 @@ _Coding Bootcamp_
 
 - Bachelor's in Dental Surgery
 
-## <a name="others">Others 🎵</a>
+## <a name="others">Hobbies 🎵</a>
 
-### Languages
-
-- English
-- Cantonese Chinese (Native proficiency)
-- Mandarin Chinese (daily conversation)
-- Japanese (I am learning it!)
-
-### Hobbies
-
-Apart from coding, I like 
+Apart from coding, I like  
 - Playing the cello (ABRSM Grade 7 with merit (Oct 2004))
 - Reading manga (A recent one I really like is _The Heroic Legend of Arslan (アルスラーン戦記)_)
 - Lego
