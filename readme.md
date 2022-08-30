@@ -2,7 +2,8 @@
 
 [About Me](#about_me) || [Tech stack](#tech_stack) || [Projects](#projects) || [Skills](#skills) || [Work Experience](#work_experience) || [Past Education](#past_education) || [Others](#others)
 
-[My CV](./resources/CV%20-%20Michael%20Chan%20(Cheuk%20Yu%20Chan).pdf)
+[My CV](./resources/CV%20-%20Michael%20Chan%20(Cheuk%20Yu%20Chan).pdf)  
+[My Codewars profile](https://www.codewars.com/users/michaelcychan)
 
 ## <a name="about_me">About me 💁‍♂️ </a>
 I have always been fascinated with technology, I love online shopping, I love travelling with GPS and Google Map, I love video calls or gaming with friends living in another continent. I believe technology has a great potential to improve our lives. That is why after I moved from Hong Kong to the UK in January 2022, I decided to explore tech as my new career.  Joining the highly-selective bootcamp in [Makers](https://makers.tech/) for 16 weeks confirmed my career change. 
