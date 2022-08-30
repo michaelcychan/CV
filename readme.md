@@ -112,7 +112,7 @@ _Coding Bootcamp_
 - MongoDB, PostgreSQL
 - Agile (Scrum, Kanban)
 
-**Baptist University of Hong Kong - Hong Kong** (Sep 2012 to Jun 2014)
+**Hong Kong Baptist University - Hong Kong** (Sep 2012 to Jun 2014)
 
 - Master's in Arts and Culture
 
