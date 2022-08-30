@@ -78,19 +78,17 @@ _Immigration Officer_
 
 ***Removal Assessment Section*** (Apr 2017 - Dec 2021)
 
-- Using communication skills and empathy to conduct interviews with asylum claimants, their legal representatives and interpreters concering their asylum claims
-- Using self-learning skills and analytical skills to assesse the asylum claims basing on the legal submissions from the claimants and their legal representatives, individual researches on the Country of Origin Information, and relevant laws.
+- Excellent communication skills and empathy to conduct interviews with asylum claimants, their legal representatives and interpreters concerning their asylum claims
+- Implementing self-learning skills and analytical skills to assess the asylum claims based on the legal submissions from the claimants and their legal representatives, individual research on the Country of Origin Information, and relevant laws.
 
 ***Systems Support (APPLIES) Section*** (Feb 2013 - Apr 2017)
-
 - Using communication skills to maintain an effective point of contact and resolve conflicts among internal programmers, contractor programmers, and internal computer system users (other immigraiton staff) to ensure daily operation of the internal computer system responsible for visa application and registrations of persons (APPLIES)
-- Collecting new User Stories from different sections to upgrade the application 
-- Assisting User Acceptance Testsh and updating system manuals before any system change or upgrade rollout
-- Overseeing an internal system between Immigration Department and the Hospital Authority and Department of Health which check the eligibity of government's subsidised healthcare service
+- Utilising time management skills to ensure all tasks can be completed on time, including assisting users in writing User Stories and completing User Acceptance Tests
+- Collecting new User Stories from different sections to upgrade the application
+- Assisting User Acceptance Tests and updating system manuals 
 
 ***Airport Control Section*** (Jul 2011 - Feb 2013)
-
-- Conducting interviews with arrival passengers, examining their travel documents and other relevant documents or belongings, and making contacts with the local connections to investigate whether they satisfied the immigration requirements
+- Excellent attention to details in conducting interviews with arrival passengers, examining their travel documents and other relevant documents or belongings, and making contacts with the local connections to investigate whether they satisfied the immigration requirements
 - Assisting genuine passengers especially in connection to their immigration issues
 
 ***Training Camp*** (Dec 2010 - Jul 2011)
