@@ -1,68 +1,69 @@
 # Coding Process Review
-Start date: Mon 11 July 12:00pm BST  
-End date:   Mon 11 July 1:00pm BST  
-
-Recording: https://youtu.be/GSrpFcar2oQ  
+Date: 22 September 2022    
 
 ## Scorecard
-Exercise: Band pass filter  
-No show?: No  
-Language: JavaScript  
 
-**I use an agile process**  
-*Rating: Steady*  
-You did a pretty good job gathering the main requirement from the client and asked a lot of pertinent questions. You were able to identify a lot of finer details such as that the frequencies will always be integers and the fact that the upper and lower limit should have default values of 1000 and 40 respectively. You also identified edge cases: no numbers present in the input array and corrupted input.  
+*Exercise*: School results  
+*Language*: JavaScript  
 
-Your input-output table is still very brief and contains only 1 example of an input-output pair. It is often helpful to have a list of examples to guide your development process and to serve as a reference. You can always extrapolate additional input-output cases from the examples the client gives you or simply request more examples from the client.  
+[Video](https://youtu.be/5qnM59Da3_0)  
 
-**I can model anything**  
-*Rating: Strong*  
-You chose to use the function to solve this problem which is the appropriate abstraction given that the problem is stateless.
-You adhered to naming best practices for your parameters, variables and function. You used camelCase for your function name(‘BandPassFilter’) and for your variables and parameters. While your variables and parameters were descriptive and contextual, it is best practice to name your function using a verb and not a noun for example ‘filter’ or ‘filterSoundwave’ or ‘applyFilter’  
-Your algorithm makes sense as it iterates through the input array and transforms each element according to the upper and lower limit.  
+## I use an agile process
+Rating: **Strong**  
+You began your information gathering by first clarifying the inputs and outputs of the system, which was a great first step to take. Following this, you clarified on edge cases with the user, which was a great place to go, and resulted in you getting a very solid overall idea of the system.  
 
-**I can TDD anything**  
-*Rating: Improving*    
-You started with a simple test case: interrogating the behaviour of your filter when given an array of frequencies that are within the specified range. Your second test was also similar to your first one. Yes, the tests were simple but they could have been simpler. It would have been simpler to have your test case input be an array with just one value that is within range. Then your subsequent tests can still have one input frequency but on either side of the range.  
+You have also used your input-output table to record the behaviours for the core functionality and some of the edge cases.  
 
-In addition, the simplest way to make a test pass is to return a hardcoded value that satisfies the test condition. Hardcoded values also have the benefit of allowing for patterns in the solution to develop which can be leveraged in the refactor phase.  
+You have done comprehensive information gathering concerning edge cases.  
 
-**I can program fluently**  
-*Rating: Steady*  
-You were fluent in your use of the command line. You were also familiar with language construct and showed that you understand array manipulation by using the built-in map method to iterate and transform your array.  
+## I can model anything
+Rating: *Steady*  
+You were able to discern that this problem required state due to having to be able to call the addScores() method multiple times and keeping those test scores over the object's lifespan. This led you to the utilisation of a class with a constructor that created this state variable.  
 
-Your algorithm was also logical and solved the problem in one of the most efficient ways (iterating and checking each element of the array using a built-in method).  
+I suggest that you ensure that you follow Javascript conventions for your method names i.e. camelCase.  
 
-**I can refactor anything**
-*Rating: Improving*  
-I did not get to see any significant use of the refactor phase to either remove hardcoded values and generalize or two extract functions from your main function out of sections of code in your main function that are complex enough to stand alone. Remember generalizing in the green phase will not only necessitate the introduction of complexity but also means that refactoring in the refactor phase of the RGR cycle becomes significantly harder. In addition, it is not the simplest way to make a test pass.
+You were on the right path with your algorithm, but due to the time constraint, you were making some good progress with the algorithm.  
 
-**I can debug anything**  
-*Rating: Steady*  
-You are familiar with common errors and interpret most of what you see in the command line and stack trace well. You also form a hypothesis about the error you are seeing and then act on said hypothesis instead of making random changes to your code to try to resolve errors. I also like the fact that you printed to the console to try to get a better understanding of what was happening in your function. You also looked up documentation on the syntax for throwing and catching errors.  
+## I can TDD anything
+Rating: *Steady*   
+You were doing end-to-end testing based on the behaviours of the program which was a great way to encode the requirements of the program into the algorithm. This also increases the flexibility that you have in changing/refactoring the code.  
 
-**I write code that is easy to change**  
-*Rating: Improving*  
-I, unfortunately, did not get to see you make use of git. It is good practice to do a commit each time you either enter the green phase or refactor. This way, it is much easier to roll back any breaking changes that you introduce. Your commit message also has to be descriptive.  
+Just be careful of testing for incorrect outputs and ensure that you have the outputs in your test aligned with the acceptance criteria. I had to warn you that the 0 counts needed to be included in the output when you were doing your simplest input strings.  
 
-Your code was decoupled from your test suite because it had the behaviour-first approach. What this means is that since you’re not testing for implementation details, any changes in how you implement your algorithm will not result in your test suite having to change.  
+You were loosely following the RGR cycle and did refactor on some of the refactor phases, but there were some refactor phases that were skipped.  
 
-**I have a methodological approach to problem solving**
-*Rating: Steady*
-You followed a regular RGR cycle and showed that you understand the underlying principle behind the RGR cycle. You also prioritized core cases and only addressed edge cases after having a working solution for core cases.  
+## I can program fluently
+Rating: **Strong**  
+You seemed comfortable enough using the terminal and editor to set up your environment.  
 
-Your tests also progressed in a logical order: you started with a situation wherein the soundwave does not need transformation and then proceeded to situations where transformation is needed on only one aspect(either below or above range).  
+You seemed to have a sufficient level of knowledge in all of the relevant programming constructs needed to solve the problem.  
 
-You looked up documentation on how to throw errors and how to subsequently catch them in your tests.  
 
-**I can justify the way I work**  
-*Rating: Strong*  
+## I can refactor anything
+Rating: Improving  
+You were aware of refactoring your code, but when the opportunity came to extract a method, you did not do so. Once a method has more than one responsibility, that is a good time to extract logic to a new method so that the code adheres to the single-responsibility principle.  
 
-You vocalized your process very well and it was clear what you were doing. You also reasoned well and justified all the decisions you made regarding your algorithm. Even when stuck, you still justified and reasoned every attempt that you made at a solution to the non-compliant test.  
+## I can debug anything
+Rating: **Strong**  
+You regularly read the stack trace to ensure that you are up-to-date on all possible bugs. You have also used documentation effectively to understand which methods would be useful to solve the problem and what the syntax would be.  
+
+## I write code that is easy to change
+Rating: *Steady*  
+I was pleased to see that you had your test suite decoupled from the implementation. This was done by testing the expected inputs and outputs of the system. This promotes flexibility in your code, and so any changes made to the structure of the code will not warrant a change in tests.  
+
+Your variable and method names were very descriptive and aided in code readability which in turn helps to make code easier to change.  
+
+You have committed whenever your tests pass which aids in being able to roll back to a previous safe version if you were to run into any trouble with new additions to the code or refactors. I would just suggest that you make the commit messages more descriptive of what features were covered and what specifically was refactored so that there is a more clear commit history that anybody can reference and understand.  
+
+## I have a methodological approach to problem solving
+Rating: *Steady*  
+You mostly adhere quite closely to the RGR cycle. There is one refinement that I would suggest and that is to try to identify code that can be refactored into separate methods before moving from a refactor phase to the next red phase. Method extractions help to build the overall design of the algorithm and create clean code in an incremental manner. This leads to less risk of bugs creeping in when complicated refactoring is done later in the development process because it was left to be done later on.  
+
+You have aimed to provide the client with immediate value by prioritising the core cases over the edge cases except for when you tested for the generateReport() method when no scores were added.  
+
+## I can justify the way I work
+Rating: *Steady*  
+You were vocal throughout the session, which helped me understand your thought process. However, you deviated from the process without any justification when you were skipping refactor phases. I recommend that you provide sound justifications grounded in the process you’ve learnt at Makers for an effective development workflow.  
 
 ## General feedback
-Well done on having a working solution and although you got stuck in the end when dealing with an edge case, you still had a working solution and showed a calculated and methodical approach to debugging. Remember that the best tests are the simplest ones and equally, the simplest way to make a test pass is to return a hardcoded value. That way, you get to see the value that the refactor phase of the RGR cycle brings with it.  
-
-You also did very well in the information gathering phase by asking good questions and identifying both edge cases and the finer details of the problem. This is a notable improvement from your last exercise!  
-
-You have a pretty solid understanding of TDD and I think you’ll do better in your next exercise.
+This was a great 5th review session. The one main thing that you could focus on is identifying how the code can be refactored on the refactor phases.

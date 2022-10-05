@@ -44,6 +44,7 @@ I am an aspiring junior full-stack developer. I look forward to the journey work
 | Name              | Description       | Tech/tools   | URL   | Status  |
 | ----------------- | ----------------- | ------------ | ----- | ------- |
 | **Village Doctor**   | A web application built for an imaginary village shaman doctor and villagers to make appointments and purchases | MERN (React, Node.js, Express, MongoDB), Jest | https://github.com/michaelcychan/village-doctor | Ongoing |
+| **Scales Randomiser**   | A simple website built to generate a random practice to prepare for violin exams | Javascript, Jest, HTML, CSS, GitHub Action | https://github.com/michaelcychan/scales-arpeggios-randomiser | Ongoing |
 | **Bank Tech Test**   | A tech test exercise simulating bank account transactions and statement printing | Node.js, Jest | https://github.com/michaelcychan/bank-tech-test | Finished |
 | **Mock Blog API**   | A tech test exercise simulating a blog site | Ruby on Rails, CSS | https://github.com/michaelcychan/posts-api | Finished |
 | **Coding Process Review** | A coding process review by a professional reviewer | Javascript, Jest | [Scorecard](./resources/CodingProcessReviewComment.md) | Finished |
